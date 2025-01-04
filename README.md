@@ -2,6 +2,6 @@
 - 👀 I’m interested in App Development, particularly in Flutter and Android UI design.
 - 🌱 I’m currently learning Flutter, Firebase, Java, HTML, CSS, C, JavaScript, and MySQL.
 - 💞️ I’m looking to collaborate on app development projects and learning new technologies.
-- 📫 How to reach me: You can email me at ravikindarkhediya@example.com or find me on LinkedIn: [LinkedIn Profile] (replace with actual link).
+- 📫 How to reach me: You can email me at ravikindarkhediya6@gmail.com or find me on LinkedIn: www.linkedin.com/in/ravi-kindarkhediya-b85614268/.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems and building creative, user-friendly applications.
